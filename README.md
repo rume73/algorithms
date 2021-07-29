@@ -1,6 +1,6 @@
 # Алгоритмы и структуры данных
 
-<span style="color: black"> ## [**Яндекс.Практикум. Спринт 12**](Sprint12) </span>
+## [**Яндекс.Практикум. Спринт 12**](Sprint12)
 
 ### Введение в алгоритмы
 https://contest.yandex.ru/contest/23389/problems/
